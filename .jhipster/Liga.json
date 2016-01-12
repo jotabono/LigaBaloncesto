@@ -1,0 +1,13 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "nombreLiga",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20151210202453",
+    "dto": "no",
+    "pagination": "no"
+}

@@ -1,0 +1,13 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "nombreArbitro",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20151210202626",
+    "dto": "no",
+    "pagination": "no"
+}

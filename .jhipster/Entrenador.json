@@ -1,0 +1,18 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "nombreEntrenador",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 2,
+            "fieldName": "equipoEntrenador",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20151210203117",
+    "dto": "no",
+    "pagination": "no"
+}

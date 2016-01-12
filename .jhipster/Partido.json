@@ -1,0 +1,13 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "fechaPartido",
+            "fieldType": "LocalDate"
+        }
+    ],
+    "changelogDate": "20151210202650",
+    "dto": "no",
+    "pagination": "no"
+}
